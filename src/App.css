@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+body {
+  font-family: "Roboto", sans-serif;
+  /* font-family: "Raleway", sans-serif; */
+  color: black;
+  background-color: black;
+}
+
+#input {
+  width: 100%;
+  padding: 0px 5px;
+  border: none;
+  border-bottom: solid 2px #2782f5;
+}
+
+#input:focus {
+  outline: none;
+}
+
+/* @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap"); */
+
+.form-card {
+  background-color: rgb(255, 255, 255);
+}
+
+.image {
+  border-radius: 100%;
+}
+
+.button {
+  width: 100%;
+  border-radius: 0px;
+}
